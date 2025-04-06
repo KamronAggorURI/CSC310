@@ -1,0 +1,13 @@
+# Custom .gitignore for Homework 9
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.so
+env/
+venv/
+.venv/
+.env
+*.log
+.vscode/
+.idea/
